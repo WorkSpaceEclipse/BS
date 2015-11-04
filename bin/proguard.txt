@@ -1,0 +1,23 @@
+# view res/layout/home_fragmet.xml #generated:89
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.bdj.main.HomeFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.bdj.main.LogoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.bdj.main.MyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.bdj.main.MyBroadcast { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.bdj.main.ZoomActivity { <init>(...); }
+
+# view res/layout/lv_item_all.xml #generated:73
+# view res/layout/lv_item_pic.xml #generated:73
+# view res/layout/zoom.xml #generated:23
+-keep class pl.droidsonroids.gif.GifImageView { <init>(...); }
+
